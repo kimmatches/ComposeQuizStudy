@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369376385449",
+    "project_id": "note-80ee9",
+    "storage_bucket": "note-80ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369376385449:android:da4cf4338d6a24742a0cb8",
+        "android_client_info": {
+          "package_name": "com.example.composequizstudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07PD8i-jFACawPuqh3oYrm64R9d2DToo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
